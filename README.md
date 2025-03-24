@@ -1,2 +1,2 @@
 # medica_chatbot
-it is a multimodal medical chatbot
+it is a multimodal medical chatbot trained using rag model.
